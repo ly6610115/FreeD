@@ -51,8 +51,8 @@
     {
       "name": "中餐厅第五季",
       "pic": "https://img11.360buyimg.com/ddimg/jfs/t1/190534/18/15923/31677/6104a7c2Eb0fcfbb8/ae433023f0bd0810.jpg",
-      "webUrl": "https://cdn.jsdelivr.net/gh/ly6610115/FreeD@master/yingshiyuan/zhongcanting.m3u",
-      "type": "m3u",
+      "webUrl": "https://cdn.jsdelivr.net/gh/ly6610115/FreeD@master/yingshiyuan/zhongcanting.txt",
+      "type": "txt",
       "subTitle": "中餐厅第五季",
       "click": true,
       "autoNext": true,
