@@ -1,7 +1,48 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="超前企划0727" tvg-name="超前企划0727" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://img11.360buyimg.com/ddimg/jfs/t1/190534/18/15923/31677/6104a7c2Eb0fcfbb8/ae433023f0bd0810.jpg" group-title="",超前企划0727
 https://uf.haoyu666.top/uploads%2F20210802%2F%E8%B6%85%E5%89%8D%E4%BC%81%E5%88%92.m3u8
+
 #EXTINF:-1 tvg-id="第01期0730" tvg-name="第01期0730" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://img11.360buyimg.com/ddimg/jfs/t1/190534/18/15923/31677/6104a7c2Eb0fcfbb8/ae433023f0bd0810.jpg" group-title="",第01期0730
 https://uf.haoyu666.top/uploads%2F20210802%2F%E7%AC%AC1%E6%9C%9F.m3u8
+
+#EXTINF:-1 tvg-id="第01期Plus" tvg-name="第01期Plus" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://img11.360buyimg.com/ddimg/jfs/t1/190534/18/15923/31677/6104a7c2Eb0fcfbb8/ae433023f0bd0810.jpg" group-title="",第01期Plus
+https://uf.haoyu666.top/uploads%2F20210802%2FPlus%E7%89%88%E7%AC%AC1%E6%9C%9F.m3u8
+
+#EXTINF:-1 tvg-id="第20210806期" tvg-name="第20210806期" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://img11.360buyimg.com/ddimg/jfs/t1/190534/18/15923/31677/6104a7c2Eb0fcfbb8/ae433023f0bd0810.jpg" group-title="",第20210806期
+https://uf.haoyu666.top/uploads%2F20210903%2F%E7%AC%AC2%E6%9C%9F0806.m3u8
+
+#EXTINF:-1 tvg-id="第20210806Plus" tvg-name="第20210806Plus" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://img11.360buyimg.com/ddimg/jfs/t1/190534/18/15923/31677/6104a7c2Eb0fcfbb8/ae433023f0bd0810.jpg" group-title="",第20210806Plus
+https://uf.haoyu666.top/uploads%2F20210903%2F%E4%BC%9A%E5%91%98Plus%E7%89%88%E7%AC%AC2%E6%9C%9F0806.m3u8
+
+#EXTINF:-1 tvg-id="第20210807期" tvg-name="第20210807期" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://img11.360buyimg.com/ddimg/jfs/t1/190534/18/15923/31677/6104a7c2Eb0fcfbb8/ae433023f0bd0810.jpg" group-title="",第20210807期
+https://uf.haoyu666.top/uploads%2F20210903%2F%E7%8B%AC%E5%AE%B6%E7%9B%B4%E6%8B%8D%E7%AC%AC1%E6%9C%9F0807.m3u8
+
 #EXTINF:-1 tvg-id="第20210813期" tvg-name="第20210813期" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://img11.360buyimg.com/ddimg/jfs/t1/190534/18/15923/31677/6104a7c2Eb0fcfbb8/ae433023f0bd0810.jpg" group-title="",第20210813期
 https://uf.haoyu666.top/uploads%2F20210903%2F%E7%AC%AC3%E6%9C%9F0813.m3u8
+
+#EXTINF:-1 tvg-id="第20210813Plus" tvg-name="第20210813Plus" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://img11.360buyimg.com/ddimg/jfs/t1/190534/18/15923/31677/6104a7c2Eb0fcfbb8/ae433023f0bd0810.jpg" group-title="",第20210813Plus
+https://uf.haoyu666.top/uploads%2F20210903%2F%E4%BC%9A%E5%91%98Plus%E7%89%88%E7%AC%AC3%E6%9C%9F0813.m3u8
+
+#EXTINF:-1 tvg-id="第20210814期" tvg-name="第20210814期" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://img11.360buyimg.com/ddimg/jfs/t1/190534/18/15923/31677/6104a7c2Eb0fcfbb8/ae433023f0bd0810.jpg" group-title="",第20210814期
+https://uf.haoyu666.top/uploads%2F20210903%2F%E7%8B%AC%E5%AE%B6%E7%9B%B4%E6%8B%8D%E7%AC%AC2%E6%9C%9F0814.m3u8
+
+#EXTINF:-1 tvg-id="第20210820期" tvg-name="第20210820期" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://img11.360buyimg.com/ddimg/jfs/t1/190534/18/15923/31677/6104a7c2Eb0fcfbb8/ae433023f0bd0810.jpg" group-title="",第20210820期
+https://uf.haoyu666.top/uploads%2F20210903%2F%E7%AC%AC4%E6%9C%9F0820.m3u8
+
+#EXTINF:-1 tvg-id="第20210820Plus" tvg-name="第20210820Plus" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://img11.360buyimg.com/ddimg/jfs/t1/190534/18/15923/31677/6104a7c2Eb0fcfbb8/ae433023f0bd0810.jpg" group-title="",第20210820Plus
+https://uf.haoyu666.top/uploads%2F20210903%2F%E4%BC%9A%E5%91%98Plus%E7%89%88%E7%AC%AC4%E6%9C%9F0820.m3u8
+
+#EXTINF:-1 tvg-id="第20210827期" tvg-name="第20210827期" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://img11.360buyimg.com/ddimg/jfs/t1/190534/18/15923/31677/6104a7c2Eb0fcfbb8/ae433023f0bd0810.jpg" group-title="",第20210827期
+https://uf.haoyu666.top/uploads%2F20210903%2F%E7%AC%AC5%E6%9C%9F0827.m3u8
+
+#EXTINF:-1 tvg-id="第20210827Plus" tvg-name="第20210827Plus" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://img11.360buyimg.com/ddimg/jfs/t1/190534/18/15923/31677/6104a7c2Eb0fcfbb8/ae433023f0bd0810.jpg" group-title="",第20210827Plus
+https://uf.haoyu666.top/uploads%2F20210903%2F%E4%BC%9A%E5%91%98Plus%E7%89%88%E7%AC%AC5%E6%9C%9F0827.m3u8
+
+#EXTINF:-1 tvg-id="第20210828期" tvg-name="第20210828期" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://img11.360buyimg.com/ddimg/jfs/t1/190534/18/15923/31677/6104a7c2Eb0fcfbb8/ae433023f0bd0810.jpg" group-title="",第20210828期
+https://uf.haoyu666.top/uploads%2F20210903%2F%E7%8B%AC%E5%AE%B6%E7%9B%B4%E6%8B%8D%E7%AC%AC3%E6%9C%9F0828.m3u8
+
+#EXTINF:-1 tvg-id="第20210903期" tvg-name="第20210903期" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://img11.360buyimg.com/ddimg/jfs/t1/190534/18/15923/31677/6104a7c2Eb0fcfbb8/ae433023f0bd0810.jpg" group-title="",第20210903期
+https://uf.haoyu666.top/uploads%2F20210904%2F%E7%AC%AC6%E6%9C%9F0903.m3u8
+
+#EXTINF:-1 tvg-id="第20210903Plus" tvg-name="第20210903Plus" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://img11.360buyimg.com/ddimg/jfs/t1/190534/18/15923/31677/6104a7c2Eb0fcfbb8/ae433023f0bd0810.jpg" group-title="",第20210903Plus
+https://uf.haoyu666.top/uploads%2F20210904%2FPlus%E7%89%88%E7%AC%AC6%E6%9C%9F0903.m3u8
