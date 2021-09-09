@@ -1,1 +1,7 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-id="超前企划0727" tvg-name="超前企划0727" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://img11.360buyimg.com/ddimg/jfs/t1/190534/18/15923/31677/6104a7c2Eb0fcfbb8/ae433023f0bd0810.jpg" group-title="",超前企划0727
+https://uf.haoyu666.top/uploads%2F20210802%2F%E8%B6%85%E5%89%8D%E4%BC%81%E5%88%92.m3u8
+#EXTINF:-1 tvg-id="第01期0730" tvg-name="第01期0730" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://img11.360buyimg.com/ddimg/jfs/t1/190534/18/15923/31677/6104a7c2Eb0fcfbb8/ae433023f0bd0810.jpg" group-title="",第01期0730
+https://uf.haoyu666.top/uploads%2F20210802%2F%E7%AC%AC1%E6%9C%9F.m3u8
+#EXTINF:-1 tvg-id="第20210813期" tvg-name="第20210813期" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://img11.360buyimg.com/ddimg/jfs/t1/190534/18/15923/31677/6104a7c2Eb0fcfbb8/ae433023f0bd0810.jpg" group-title="",第20210813期
+https://uf.haoyu666.top/uploads%2F20210903%2F%E7%AC%AC3%E6%9C%9F0813.m3u8
